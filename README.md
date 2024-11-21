@@ -1,5 +1,9 @@
-### study-of-basic-gates
+# NAME : S.DINESH RAGHAVENDARA
+# REFERENCE NUMBER : 24900081
 
+
+
+### EXP 1 : Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -66,14 +70,29 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by: RegisterNumber: 24900081
+
+![basic logic gate coding](https://github.com/user-attachments/assets/c9ec7219-5043-4e6c-af99-59b2f8ed0043)
+
  
 **Logic symbol & Truthtable**
 
+![WhatsApp Image 2024-11-18 at 11 51 54 AM](https://github.com/user-attachments/assets/bdd78236-5b94-48bf-b71b-5882975d6ca1)
+
+
 **RTL realization Output:** 
 
+![basic gate logic diagram](https://github.com/user-attachments/assets/e4c70e2f-7e59-4114-b0af-f1c89de540c8)
+
+
 **RTL**
+![basic logic gate coding](https://github.com/user-attachments/assets/982a4ceb-5555-4192-8ecd-4e2340a7ffb6)
+
+**OUTPUT**
+![basic logic gate](https://github.com/user-attachments/assets/53798b36-7a53-4aec-9d5c-037425da63b5)
+
+
 
 **Result:**
 
-
+ Study of basic digital IC’s and truth tables f./or different logic gates verified using verilog 
